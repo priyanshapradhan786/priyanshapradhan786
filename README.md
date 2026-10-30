@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Priyansha Pradhan 👋
 
-<!--
-**priyanshapradhan786/priyanshapradhan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Engineering Student  
+🤖 Specialization: Artificial Intelligence \& Machine Learning
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning C, C++, Python and Data Structures \& Algorithms.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 💻 Interested in Software Development and Cybersecurity.
+- 🚀 Building projects and improving my programming skills.
+- 🎯 Working towards becoming a skilled software developer.
+
+## 🛠️ Languages \& Tools
+
+- C
+- C++
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📂 My Projects
+
+- [Coding Practice – C, C++ and Python](<https://github.com/priyanshapradhan786/coding-cpp>)
+
+## 📈 My Goals
+
+- Strengthen programming fundamentals.
+- Learn Data Structures and Algorithms.
+- Build real-world projects.
+- Explore AI/ML technologies.
+- Prepare for internships and software engineering opportunities.
+
+## 🤝 Connect With Me
+
+- GitHub: [@priyanshapradhan786](<https://github.com/priyanshapradhan786>)
+
+---
+
+⭐ *Learning, building and growing one step at a time!*
