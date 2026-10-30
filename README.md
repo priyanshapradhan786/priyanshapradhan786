@@ -21,8 +21,11 @@
 - Visual Studio Code
 
 ## 📂 My Projects
-
-- [Coding Practice – C, C++ and Python](<https://github.com/priyanshapradhan786/coding-cpp>)
+### 🎓 Student Grade Calculator
+- Developed using Python.
+- Calculates total marks, percentage and grades.
+- Includes input validation and exception handling.
+- [View Project on GitHub](https://github.com/priyanshapradhan786/coding)
 
 ## 📈 My Goals
 
